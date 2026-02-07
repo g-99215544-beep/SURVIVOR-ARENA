@@ -1,0 +1,5 @@
+{
+  "name": "Survivor Arena React",
+  "description": "A high-performance wave survival game ported to React/TypeScript with persistent progression and polished UI.",
+  "requestFramePermissions": []
+}
